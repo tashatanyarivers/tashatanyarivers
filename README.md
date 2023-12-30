@@ -45,7 +45,9 @@ I am a Data Scientist who is passionate about the intersection of data science, 
 ### 📫 How to reach me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Natasha%20Rivers-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/natasha-rivers/)](https://www.linkedin.com/in/natasha-rivers/)
+
 [![Email](https://img.shields.io/badge/Email-tasha.tanya.rivers%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white&link=mailto:tasha.tanya.rivers@gmail.com)](mailto:tasha.tanya.rivers@gmail.com)
+
 [![Github](https://img.shields.io/badge/GitHub-%23181717.svg?style=plastic&logo=github&logoColor=white)](https://github.com/tashatanyarivers)
 
 ---
