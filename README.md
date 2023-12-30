@@ -1,6 +1,6 @@
 Hi there 👋
 
-I am a Data Scientist who is passionate about the intersection of data science, analytics, and impactful storytelling. I thrive on translating complex datasets into meaningful insights. With a dedicated focus on the dynamic field of data science, I bring a proven track record in presenting compelling narratives to stakeholders. From co-leading cohorts with a 100% graduation rate to leveraging machine learning models for system optimization, my journey reflects a commitment to excellence in both education and industry. Excited by the limitless possibilities of data, I aspire to contribute to innovative solutions that empower organizations and inspire data-driven decisions. Let's transform data into a language that not only informs but also sparks change. 🚀✨
+I am a Data Scientist who is passionate about analytics and content delivery. I enjoy public speaking and find great satisfaction in delivering impactful presentations to large audiences. In my career as a data scientist, I have had the opportinity to co-lead cohorts with a 100% graduation rate, create dynamic dashboards using Splunk and Tableau, generate predictive models using machine learning techniques and so much more. ETL is by far my favorite part of the data science pipeline, as it provides me with the opportunity to extensively clean the data that is typically unstructured. 
 
 ---
 
