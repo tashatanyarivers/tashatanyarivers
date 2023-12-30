@@ -2,6 +2,25 @@ Hi there 👋
 
 I am a Data Scientist who is passionate about the intersection of data science, analytics, and impactful storytelling. I thrive on translating complex datasets into meaningful insights. With a dedicated focus on the dynamic field of data science, I bring a proven track record in presenting compelling narratives to stakeholders. From co-leading cohorts with a 100% graduation rate to leveraging machine learning models for system optimization, my journey reflects a commitment to excellence in both education and industry. Excited by the limitless possibilities of data, I aspire to contribute to innovative solutions that empower organizations and inspire data-driven decisions. Let's transform data into a language that not only informs but also sparks change. 🚀✨
 
+---
+
+### 🧰 Languages, Tools and Libraries
+
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<img align="left" alt="SQLAce" width="30px" style="padding-right:10px;" src="https://img.icons8.com/ios/452/sql.png" />
+<img align="left" alt="Pandas" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
+<img align="left" alt="NumPy" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
+<img align="left" alt="Matplotlib" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" />
+<img align="left" alt="Seaborn" width="30px" style="padding-right:10px;" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" />
+<img align="left" alt="scikit-learn" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" />
+<img align="left" alt="SciPy" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scipy/scipy-original.svg" />
+<img align="left" alt="NLTK" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nltk/nltk-original.svg" />
+<img align="left" alt="VS Code" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
+<img align="left" alt="Jupyter Notebook" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<br />
 
 ---
 
@@ -21,42 +40,12 @@ I am a Data Scientist who is passionate about the intersection of data science, 
     
 ---
 
-### Concepts that I use regularly
-
-- SQL
-- Python 🐍
-- Tableau
-- Applied Statistics 📈
-- Methodologies:
-  - Regression
-  - Classification
-  - Clustering
-  - Time Series
-  - Anomaly Detection
-  - NLP
-
----
-
-### 🧰 Languages and Tools
-
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<img align="left" alt="SQLite" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
-<img align="left" alt="Jupyter Notebook" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Tableau" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-plain.svg" />
-
-<br />
-
----
-
 ### 📫 How to reach me:
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Natasha%20Rivers-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/natasha-rivers/)](https://www.linkedin.com/in/natasha-rivers/)
 
-[![Email](https://img.shields.io/badge/Email-tashatanyarivers%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white&link=mailto:tashatanyarivers@gmail.com)](mailto:tashatanyarivers@gmail.com)
+[![Email](https://img.shields.io/badge/Email-tashatanyarivers%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white&link=mailto:tashatanyarivers@gmail.com)](mailto:tasha.tanya.rivers@gmail.com)
 
 
 ---
