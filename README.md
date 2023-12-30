@@ -16,10 +16,12 @@ I am a Data Scientist who is passionate about the intersection of data science, 
 <img align="left" alt="Jupyter Notebook" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+
 ![Tableau](https://img.shields.io/badge/Tableau-lightgrey?style=flat&logo=tableau)
 ![SKLearn](https://img.shields.io/badge/SKLearn-lightgrey?style=flat&logo=scikitlearn)
 ![SciPy](https://img.shields.io/badge/SciPy-lightgrey?style=flat&logo=scipy)
 ![NLTK](https://img.shields.io/badge/NLTK-lightgrey?style=flat&logo=nltk)
+
 <br />
 
 ---
