@@ -11,16 +11,18 @@ I am a Data Scientist who is passionate about the intersection of data science, 
 <img align="left" alt="SQLAce" width="30px" style="padding-right:10px;" src="https://img.icons8.com/ios/452/sql.png" />
 <img align="left" alt="Pandas" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
 <img align="left" alt="NumPy" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-blue?style=flat-square&logo=python&logoColor=white&labelColor=blue)](https://matplotlib.org/)
 <img align="left" alt="Seaborn" width="30px" style="padding-right:10px;" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" />
 <img align="left" alt="VS Code" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
 <img align="left" alt="Jupyter Notebook" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-
 <img align="left" alt="scikit-learn" width="80px" style="padding-right:10px;" src="https://img.shields.io/badge/scikit--learn-blue?style=flat-square&logo=scikit-learn&logoColor=white" />
 <img align="left" alt="SciPy" width="60px" style="padding-right:10px;" src="https://img.shields.io/badge/SciPy-blueviolet?style=flat-square&logo=SciPy&logoColor=white" />
 <img align="left" alt="NLTK" width="50px" style="padding-right:10px;" src="https://img.shields.io/badge/NLTK-green?style=flat-square&logo=nltk&logoColor=white" />
+![Tableau](https://img.shields.io/badge/-Tableau-0D1117?style=flat&logo=tableau)
+![SKLearn](https://img.shields.io/badge/-SKLearn-0D1117?style=flat&logo=scikitlearn)
+![SciPy](https://img.shields.io/badge/-SciPy-0D1117?style=flat&logo=scipy)
+![NLTK](https://img.shields.io/badge/-NLTK-0D1117?style=flat&logo=nltk)
 <br />
 
 ---
@@ -43,11 +45,9 @@ I am a Data Scientist who is passionate about the intersection of data science, 
 
 ### 📫 How to reach me:
 
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Natasha%20Rivers-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/natasha-rivers/)](https://www.linkedin.com/in/natasha-rivers/)
-
 [![Email](https://img.shields.io/badge/Email-tashatanyarivers%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white&link=mailto:tashatanyarivers@gmail.com)](mailto:tasha.tanya.rivers@gmail.com)
-
+[![Github](https://img.shields.io/badge/GitHub-%23181717.svg?style=plastic&logo=github&logoColor=white)](https://github.com/tashatanyarivers)
 
 ---
 
