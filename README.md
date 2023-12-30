@@ -11,15 +11,16 @@ I am a Data Scientist who is passionate about the intersection of data science, 
 <img align="left" alt="SQLAce" width="30px" style="padding-right:10px;" src="https://img.icons8.com/ios/452/sql.png" />
 <img align="left" alt="Pandas" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
 <img align="left" alt="NumPy" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
-<img align="left" alt="Matplotlib" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" />
+<img align="left" alt="Matplotlib" width="30px" style="padding-right:10px;" src="https://matplotlib.org/stable/_images/matplotlib.svg" />
 <img align="left" alt="Seaborn" width="30px" style="padding-right:10px;" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" />
-<img align="left" alt="scikit-learn" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" />
-<img align="left" alt="SciPy" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scipy/scipy-original.svg" />
-<img align="left" alt="NLTK" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nltk/nltk-original.svg" />
 <img align="left" alt="VS Code" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
 <img align="left" alt="Jupyter Notebook" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+
+<img align="left" alt="scikit-learn" width="80px" style="padding-right:10px;" src="https://img.shields.io/badge/scikit--learn-blue?style=flat-square&logo=scikit-learn&logoColor=white" />
+<img align="left" alt="SciPy" width="60px" style="padding-right:10px;" src="https://img.shields.io/badge/SciPy-blueviolet?style=flat-square&logo=SciPy&logoColor=white" />
+<img align="left" alt="NLTK" width="50px" style="padding-right:10px;" src="https://img.shields.io/badge/NLTK-green?style=flat-square&logo=nltk&logoColor=white" />
 <br />
 
 ---
