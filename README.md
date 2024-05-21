@@ -35,10 +35,11 @@ I am a Data Scientist who is passionate about analytics and content delivery. I 
 
 ### Certifications
 
+- Amazon Web Services Certified Cloud Practitioner (AWS CCP)
+- Microsoft Azure Data Engineering Fundamentals (DP-900)
 - ICAgile Certified Professional
 - Mental Health First Aid
-- Defensive Tactics Coordinator (TDCJ)
-- Munitions Instructor (TDCJ)
+
     
 ---
 
