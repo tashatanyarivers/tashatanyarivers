@@ -1,6 +1,6 @@
 Hi there 👋
 
-I am a Data Scientist who is passionate about analytics and content delivery. I enjoy public speaking and find great satisfaction in delivering impactful presentations to large audiences. In my career as a data scientist, I have had the opportinity to co-lead cohorts with a 100% graduation rate, create dynamic dashboards using Splunk and Tableau, generate predictive models using machine learning techniques and so much more. ETL is by far my favorite part of the data science pipeline, as it provides me with the opportunity to extensively clean the data that is typically unstructured. 
+I am a Data Engineer who is passionate about analytics and content delivery. I enjoy public speaking and find great satisfaction in delivering impactful presentations to large audiences. In my career as a data scientist, I have had the opportinity to co-lead cohorts with a 100% graduation rate, create dynamic dashboards using Splunk, Tableau and PowerBI, generate predictive models using machine learning techniques and so much more. ETL is by far my favorite part of the data science pipeline, as it provides me with the opportunity to extensively clean the data that is typically unstructured. 
 
 ---
 
@@ -37,6 +37,9 @@ I am a Data Scientist who is passionate about analytics and content delivery. I 
 
 - Amazon Web Services Certified Cloud Practitioner (AWS CCP)
 - Microsoft Azure Data Engineering Fundamentals (DP-900)
+- Databricks Certified Associate Developer for Apache Spark 3.0
+- Microsoft Azure Data Engineering Associate (DP-203)
+- Microsoft Azure AI Fundamentals (Ai-900)
 - ICAgile Certified Professional
 - Mental Health First Aid
 
@@ -55,5 +58,5 @@ I am a Data Scientist who is passionate about analytics and content delivery. I 
 
 ### Fun facts:
 - ✈️ I grew up in Zaragoza, Spain 🇪🇸 and am fluent in Spanish
-- In my free time, I am currently focusing on learning <b>PowerBI</b>
+
 
