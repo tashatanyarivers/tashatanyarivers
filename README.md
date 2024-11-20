@@ -37,7 +37,7 @@ src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" />
 
 <img align="left" alt="Splunk" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/splunk/splunk-original-wordmark.svg" />
 
-<img align="left" alt="Splunk" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg/>
+<img align="left" alt="Jira" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg/>
 
 
 ![SciPy](https://img.shields.io/badge/SciPy-lightgrey?style=flat&logo=scipy)
