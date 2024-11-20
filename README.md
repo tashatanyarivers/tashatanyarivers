@@ -40,6 +40,8 @@ I am a Data Engineer who is passionate about analytics and content delivery. I e
 - Databricks Certified Associate Developer for Apache Spark 3.0
 - Microsoft Azure Data Engineering Associate (DP-203)
 - Microsoft Azure AI Fundamentals (Ai-900)
+- Microsoft Azure AI Engineer Associate (Ai-102)
+- Amazon Web Services Certified Data Engineer Associate (AWS DEA-C01)
 - ICAgile Certified Professional
 - Mental Health First Aid
 
