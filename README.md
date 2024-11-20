@@ -7,6 +7,8 @@ I am a Data Engineer who is passionate about analytics and content delivery. I e
 ### 🧰 Languages, Tools and Libraries
 <img align="left" alt="Azure" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
 
+<img align="left" alt="AWS" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+
 <img align="left" alt="Python" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 
 <img align="left" alt="MySQL" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
@@ -31,10 +33,9 @@ src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" />
 
 <img align="left" alt="Trello" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-original-wordmark.svg" />
 
-<img align="left" alt="Trello" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" />
+<img align="left" alt="Scikitlearn" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" />
 
-![Tableau](https://img.shields.io/badge/Tableau-lightgrey?style=flat&logo=tableau)
-![SKLearn](https://img.shields.io/badge/SKLearn-lightgrey?style=flat&logo=scikitlearn)
+
 ![SciPy](https://img.shields.io/badge/SciPy-lightgrey?style=flat&logo=scipy)
 ![NLTK](https://img.shields.io/badge/NLTK-lightgrey?style=flat&logo=nltk)
 
