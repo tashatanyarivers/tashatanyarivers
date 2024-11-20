@@ -23,6 +23,8 @@ src="https://img.icons8.com/ios/452/sql.png" />
 <img align="left" alt="Seaborn" width="90px" style="padding-right:10px;" 
 src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" />
 
+<img align="left" alt="Scikitlearn" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" />
+
 <img align="left" alt="VS Code" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
 
 <img align="left" alt="Jupyter Notebook" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
@@ -32,8 +34,6 @@ src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" />
 <img align="left" alt="Git" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
 <img align="left" alt="Trello" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-original-wordmark.svg" />
-
-<img align="left" alt="Scikitlearn" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" />
 
 <img align="left" alt="Splunk" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/splunk/splunk-original-wordmark.svg" />
 
