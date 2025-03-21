@@ -55,14 +55,14 @@ src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" />
 ---
 
 ### Certifications
-
-- Amazon Web Services Certified Cloud Practitioner (AWS CCP)
-- Microsoft Azure Data Engineering Fundamentals (DP-900)
-- Databricks Certified Associate Developer for Apache Spark 3.0
-- Microsoft Azure Data Engineering Associate (DP-203)
-- Microsoft Azure AI Fundamentals (Ai-900)
-- Microsoft Azure AI Engineer Associate (Ai-102)
+- Asana Certified Workflow Specialist
 - Amazon Web Services Certified Data Engineer Associate (AWS DEA-C01)
+- Microsoft Azure AI Engineer Associate (Ai-102)
+- Microsoft Azure AI Fundamentals (Ai-900)
+- Microsoft Azure Data Engineering Associate (DP-203)
+- Databricks Certified Associate Developer for Apache Spark 3.0
+- Microsoft Azure Data Engineering Fundamentals (DP-900)
+- Amazon Web Services Certified Cloud Practitioner (AWS CCP)
 - ICAgile Certified Professional
 - Mental Health First Aid
 
@@ -73,7 +73,7 @@ src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Natasha%20Rivers-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/natasha-rivers/)](https://www.linkedin.com/in/natasha-rivers/)
 
-[![Email](https://img.shields.io/badge/Email-tasha.tanya.rivers%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white&link=mailto:tasha.tanya.rivers@gmail.com)](mailto:tasha.tanya.rivers@gmail.com)
+[![Email](https://img.shields.io/badge/Email-natasha.tanya.rivers%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white&link=mailto:natasha.tanya.rivers@gmail.com)](mailto:natasha.tanya.rivers@gmail.com)
 
 [![Github](https://img.shields.io/badge/GitHub-%23181717.svg?style=plastic&logo=github&logoColor=white)](https://github.com/tashatanyarivers)
 
